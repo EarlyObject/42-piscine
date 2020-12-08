@@ -1,0 +1,5 @@
+Credentials cache: API:309F3276-5519-440A-AB34-61516863EBA0
+        Principal: asydykna@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 25 17:06:24 2020  Nov 26 03:06:24 2020  krbtgt/42MADRID.COM@42MADRID.COM
