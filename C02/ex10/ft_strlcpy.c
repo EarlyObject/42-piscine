@@ -6,7 +6,7 @@
 /*   By: asydykna <asydykna@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/12/02 19:40:29 by asydykna          #+#    #+#             */
-/*   Updated: 2020/12/08 13:00:12 by asydykna         ###   ########.fr       */
+/*   Updated: 2020/12/09 17:09:15 by asydykna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,7 +33,7 @@ unsigned int	ft_strlcpy(char *dest, char *src, unsigned int size)
 		dest[i] = '\0';
 	}
 
-	printf("\n%s", dest);
+	//printf("\n%s", dest);
 	return (result);
 }
 
